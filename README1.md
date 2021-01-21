@@ -1,0 +1,3 @@
+# anchor_point_positioning
+锚点定位。1.tablayout和recycleview联动 2.nestscrollview和recycleview嵌套联动
+联动
